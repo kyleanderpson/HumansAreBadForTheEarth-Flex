@@ -1,0 +1,49 @@
+body {
+  background-image: url("earth.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Header {
+  background-color: #d1a790;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 16px;
+}
+
+.container1  {
+  display: flex;
+  justify-content: space-around;
+  align-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.infoBox1 {
+  background-color: #d1a790;
+  border-radius: 5px;
+  padding: 8px;
+  position: relative;
+  top: 95px;
+  right: 1130px;
+  left: 8px;
+}
+
+.infoBox2 {
+  background-color: #d1a790;
+  border-radius: 5px;
+  padding: 8px;
+  position: relative;
+  top: 202px;
+  right: 1130px;
+  left: 8px;
+}
+
+.infoBox3 {
+  background-color: #d1a790;
+  border-radius: 5px;
+  padding: 8px;
+  position: relative;
+  top: 274px;
+  right: 1200px;
+  left: 8px;
+}
